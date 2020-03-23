@@ -1,0 +1,45 @@
+h1{
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	font-size: 75px;
+	color: #EF767A;
+}
+h2{
+
+}
+h3{
+	font-family: 'Playfair Display SC', serif;
+	text-align: center;
+	color: #EF767A;
+}
+.container-fluid{
+	box-shadow: 5px 0px 3px grey;
+	height: 450px;
+}
+.aboutMe{
+	background-image: url("./Pictures/bamboo_leaves.jfif");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.aboutMe_holder{
+	background-color: #EF767A;
+	width: 725%;
+	height: 175%;
+}
+.aboutMe_holder img{
+	width: 45%;
+	margin: 20px auto;
+}
+.resume_holder {
+	background-color: #7D7ABC;
+	height: 400px;
+	padding-top: 250px;
+}
+.projects_holder{
+	background-color: #23F0C7;
+	height: 400px;
+}
+.contactMe_holder{
+	background-color: #FFE347;
+	height: 400px;
+}
